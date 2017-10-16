@@ -5,3 +5,4 @@
           ar0:输入路径<br>
 		  ar1:输出路径<br>
 		  ar2:参考序列路径（在rawdata文件夹下/rawdata/dictionary）<br>
+    代码中有案例，可按照案例直接使用，注意ar1要以“\\”结尾
